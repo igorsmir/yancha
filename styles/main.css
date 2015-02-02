@@ -1,0 +1,40 @@
+body{
+	background:#333 url(../img/bg2.png);
+	font-family:Arial;
+}
+
+.main-header{
+	margin:0px auto 10px;
+	width:1020px;
+	height:179px;
+}
+
+.logo{
+	background: url(../img/logo.png);
+	background-size: contain;
+	width: 150px;
+	height: 150px;
+	margin: 0px auto;
+}
+
+.logo2{
+	background: url(../img/logo2.png);
+	background-size: contain;
+	width: 150px;
+	height: 29px;
+	margin: 0px auto;
+}
+
+.menu{
+	margin: 0px auto 0;
+	width:1020px;
+	height:85px;
+}
+.forest{
+	
+	background:linear-gradient(to bottom, rgba(98,113,70,1) 0%, rgba(174,189,146,0) 50%, rgba(0,0,0,0) 100%);
+	background:url(../img/forest.png);
+	width:1020px;
+	height:550px;
+	margin:0px auto 0px;
+}
